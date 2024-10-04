@@ -48,7 +48,7 @@
 <p>Contributions are welcome! Feel free to fork the project, submit pull requests, or report issues.</p>
 
 <h2>Author</h2>
-<p>Developed by Abhijeet Behera</p>
+    <p>Created by <a href="https://github.com/abhiyyyy7">Abhijeet Behera</a></p>
 
 </body>
 </html>
